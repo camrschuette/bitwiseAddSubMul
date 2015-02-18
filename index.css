@@ -1,0 +1,17 @@
+.entryFields li
+{
+	display: inline;
+	list-style-type: none;
+}
+
+.operators li
+{
+	display: inline;
+	list-style-type: none;
+}
+
+.answer li
+{
+	display: inline;
+	list-style-type: none;
+}
